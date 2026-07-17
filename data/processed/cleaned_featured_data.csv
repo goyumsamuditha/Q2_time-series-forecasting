@@ -1,4 +1,4 @@
-observation_date,DHHNGSP,lag_1,lag_2,lag_3,rolling_volatility_7,stationary_series
+observation_date,DHHNGSP,lag_1,lag_2,lag_3,Rolling_Std_7,Stationary_Target
 2021-07-13,3.78,,,,,3.78
 2021-07-14,3.8,3.78,,,,3.8
 2021-07-15,3.68,3.8,,,,3.68
