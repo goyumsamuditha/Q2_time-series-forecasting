@@ -1,0 +1,27 @@
+# data handling
+pandas>=2.2.0
+numpy>=1.26.0
+ 
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+ 
+# Statistics & classical time series models
+statsmodels>=0.14.5
+pmdarima>=2.0.4
+ 
+# Volatility modelling
+arch>=8.0.0
+ 
+# Machine learning
+scikit-learn>=1.5.0
+xgboost>=3.3.0
+ 
+# Deep learning
+tensorflow>=2.16.0
+keras_tuner>=1.4.0
+ 
+# Notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.29.0
